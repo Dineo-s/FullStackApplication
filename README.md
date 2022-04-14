@@ -1,0 +1,2 @@
+# FullStackApplication
+Skeleton web application
